@@ -1,5 +1,6 @@
 # Lythium Vanilla+ Mission Files for 1.0.4a and Arma 1.78
 Author: Kurewe
+Edited by: Kuchenplatte 27.07.2019
 
 I've put together some Vanilla+ Lythium Mission files for your pleasure.
 Even though it isn't strictly Vanilla, I did try to keep the extras useful and easily configurable/changeable.
