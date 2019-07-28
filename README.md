@@ -1,4 +1,4 @@
-# Lythium Vanilla+ Mission Files for 1.0.4a and Arma 1.78
+# Lythium Vanilla+ Mission Files for 1.0.4a and Arma 1.94
 Author: Kurewe
 Edited by: Kuchenplatte 27.07.2019
 
